@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.socialmedia.status.story.video.downloder">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+
+    <application
+        android:name="com.socialmedia.status.story.video.downloder.MyUtils.Global"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="false"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyLoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyAboutUsActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyFacebookActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyTikTokActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyWhatsappActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyInstagramActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyFullViewActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyLikeeActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyJoshActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyMitronActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyChingariActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.ProgressActivityWithAdMobNativeAd"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyPrivacyActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MySplashScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyGalleryActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyTwitterActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyRoposoActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyShareChatActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MySnackVideoActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyMXTakaTakActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyActivity.MyMojActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_app_id" />
+
+        <meta-data
+            android:name="firebase_analytics_collection_enabled"
+            android:value="true" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name="com.socialmedia.status.story.video.downloder.MyFirebaseMessagingService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@mipmap/ic_launcher" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorPrimaryDark" />
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.socialmedia.status.story.video.downloder.MyUtils.MyAlarmNotification"
+            android:screenOrientation="locked"
+            android:theme="@style/Transparent" />
+        <receiver android:name="com.socialmedia.status.story.video.downloder.MyUtils.MyAlarmReceiver" />
+
+
+    </application>
+
+</manifest>

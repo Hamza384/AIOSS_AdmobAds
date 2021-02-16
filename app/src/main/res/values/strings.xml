@@ -1,0 +1,204 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">All in One Status Saver</string>
+    <string name="tag_line" translatable="false">Download All Status on One Click</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="share_txt" translatable="false">Hey view/download this image</string>
+    <string name="share_image_via" translatable="false">Share File via...</string>
+    <string name="share_app_message" translatable="false">Download All Videos using this app. Download Now</string>
+
+
+    <!--test ads-->
+    <!-- <string name="app_id" translatable="false">ca-app-pub-9323889381675264~5752421338</string>
+     <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_native_id" translatable="false">ca-app-pub-3940256099942544/2247696110</string>-->
+    <!--till here-->
+
+    <!--Real Ids-->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_ad" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_native_id" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_interstitial_ad" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="fb_placement_id" translatable="false">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="fb_placement_interstitial_id" translatable="false">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <!--Real Ids till here-->
+
+    <string name="about_content" translatable="false">Version: 1.0\nDeveloped by:-\ncodingdunia2019@gmail.com</string>
+    <string name="aboutInfo" translatable="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="insta_app_name" translatable="false">Instagram</string>
+    <string name="insta_tag" translatable="false"><![CDATA[Download Instagram Images & Videos]]></string>
+    <string name="whatsapp_app_name" translatable="false">WA &amp; WA Business</string>
+    <string name="whatsapp_tag" translatable="false"><![CDATA[Save Whatsapp Status Image & Videos]]></string>
+    <string name="tiktok_app_name" translatable="false">TikTok</string>
+    <string name="tiktok_tag" translatable="false">Download TikTok Videos</string>
+    <string name="likee_app_name" translatable="false">Likee</string>
+    <string name="likee_tag" translatable="false">Download Likee Videos</string>
+    <string name="facebook_app_name" translatable="false">Facebook</string>
+    <string name="fcebook_tag" translatable="false">Download Facebook Videos</string>
+    <string name="twitter_app_name" translatable="false">Twitter</string>
+    <string name="twitter_tag" translatable="false"><![CDATA[Download Twitter Images & Videos]]></string>
+    <string name="gallery_name" translatable="false">Gallery</string>
+    <string name="gallery_tag" translatable="false">View All Your Downloaded Media</string>
+    <string name="aboutus_name" translatable="false">About Us</string>
+    <string name="aboutus_tag" translatable="false">Know More About App</string>
+    <string name="share_app_name" translatable="false">Share App</string>
+    <string name="share_app_tag" translatable="false">Share App with Your Friends</string>
+    <string name="rate_app_name" translatable="false">Rate App</string>
+    <string name="rate_tag" translatable="false">Show Some Love. Rate on Play Store</string>
+    <string name="more_app_name" translatable="false">More App</string>
+    <string name="more_app_tag" translatable="false">View Our Other Creations</string>
+    <string name="privacy_policy" translatable="false">Privacy Policy</string>
+    <string name="continue_text" translatable="false">Tap to Continue</string>
+    <string name="ad_attribution" tools:ignore="MissingTranslation">Ad</string>
+
+    <string name="mxtakatak_app_name" translatable="false">MX TakaTak</string>
+    <string name="open_mx" translatable="false">1. Open MXTakaTak</string>
+    <string name="cop_link_from_mx" translatable="false">1. Copy Video Link from MXTakaTak</string>
+    <string name="moj_app_name" translatable="false">Moj</string>
+    <string name="open_moj" translatable="false">1. Open Moj</string>
+    <string name="cop_link_from_moj" translatable="false">1. Copy Video Link from Moj</string>
+
+    <!--About Page-->
+    <string name="version_name" translatable="false">Version</string>
+    <string name="version_tag" translatable="false"> Version 1.0.0</string>
+    <string name="company_name_title" translatable="false">Company</string>
+    <string name="company_tag_name" translatable="false">Digicom Solutions</string>
+    <string name="email_title" translatable="false">Email</string>
+    <string name="email_tag" translatable="false">codingdunia2019@gmail.com</string>
+    <string name="website_title" translatable="false">Website</string>
+    <string name="website_tag" translatable="false">http://codingdunia.com/</string>
+    <string name="contact_title" translatable="false">Contact</string>
+    <string name="contact_tag" translatable="false">+91-9876543210</string>
+    <string name="privacy_title" translatable="false">Privacy Policy</string>
+    <string name="privacy_tag" translatable="false">Click to Read Privacy Policy</string>
+    <string name="about_title" translatable="false">About</string>
+    <string name="second_how_too" translatable="false">2. Share with All in One Status Saver</string>
+    <string name="fourth_how_too" translatable="false">2. Open All in One Status Saver</string>
+    <string name="prv_policy" translatable="false">Privacy Policy</string>
+    <string name="opn_fb" translatable="false">1. Open Facebook</string>
+    <string name="copy_video_link_frm_fb" translatable="false">1. Copy Video Link from Facebook</string>
+    <string name="enter_url" translatable="false">Enter Url</string>
+    <string name="enter_valid_url" translatable="false">Enter Valid Url</string>
+    <string name="open" translatable="false">Open</string>
+
+    <string name="do_u_want_to_dlt" translatable="false">Do you want to delete?</string>
+    <string name="file_deleted" translatable="false">File Deleted.</string>
+    <string name="opn_insta" translatable="false">1. Open Instagram</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="do_u_want_to_download_media_from_pvt" translatable="false">Don\'t Want to Download Media from Private Account?</string>
+    <string name="no_net_conn" translatable="false">No Internet Connection</string>
+    <string name="downloadin_video" translatable="false">Downloading Video...</string>
+    <string name="download_complete" translatable="false">Download Completed</string>
+    <string name="pls_bck_again" translatable="false">Please click BACK again to exit</string>
+    <string name="app_not_available" translatable="false">App Not Available.</string>
+    <string name="error_occurred" translatable="false">Error Occurred</string>
+    <string name="open_tiktok" translatable="false">1. Open TikTok</string>
+    <string name="open_likee" translatable="false">1. Open Likee</string>
+    <string name="copy_video_link_from_likee" translatable="false">1. Copy Video Link from Likee</string>
+    <string name="open_twitter" translatable="false">1. Open Twitter</string>
+    <string name="no_media_on_tweet" translatable="false">No Media on Tweet or Invalid Link</string>
+    <string name="images" translatable="false">Images</string>
+    <string name="videos" translatable="false">Videos</string>
+    <string name="saved_to" translatable="false">Saved to:</string>
+    <string name="whatsapp_not_installed" translatable="false">Whtasapp not installed.</string>
+    <string name="no_app_installed" translatable="false">No application found to open this file.</string>
+
+
+    <string name="change_lang" translatable="false">Change Language</string>
+    <string name="english" translatable="false">English</string>
+    <string name="hindi" translatable="false">हिंदी</string>
+    <string name="change_your_language" translatable="false">Change Your Language</string>
+    <string name="arabic" translatable="false">العربية</string>
+    <string name="how_to_download" translatable="false">How to Download</string>
+    <string name="or_download_using_copied_link" translatable="false">or Download using copied link</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="delete" translatable="false">Delete</string>
+    <string name="whatsapp" translatable="false">Whatsapp</string>
+    <string name="download_from_private_account" translatable="false">Download from Private Account</string>
+    <string name="paste_link" translatable="false">Paste Link</string>
+    <string name="without_watermark" translatable="false">Without Watermark</string>
+    <string name="with_watermark" translatable="false">With Watermark</string>
+    <string name="download" translatable="false">Download</string>
+    <string name="paste" translatable="false">Paste</string>
+    <string name="no_result_found" translatable="false">No Result Found</string>
+    <string name="downloading" translatable="false">Downloading...</string>
+    <string name="getting_downloading_link" translatable="false">Getting Downloading Link...</string>
+
+
+    <string name="gallery" translatable="false">Gallery</string>
+    <string name="download_started" translatable="false">Download Started</string>
+    <string name="yes" translatable="false">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="view_stories" translatable="false">View Stories and Download from Private Account</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="stories" translatable="false">Stories</string>
+
+    <string name="sharechat_app_name" translatable="false">ShareChat</string>
+    <string name="open_sharechat" translatable="false">1. Open ShareChat</string>
+    <string name="cop_link_from_sharechat" translatable="false">1. Copy Video Link from ShareChat</string>
+
+    <string name="roposo_app_name" translatable="false">Roposo</string>
+    <string name="open_roposo" translatable="false">1. Open Roposo</string>
+    <string name="cop_link_from_roposo" translatable="false">1. Copy Video Link from Roposo</string>
+
+    <string name="snack_app_name" translatable="false">Snack Video</string>
+    <string name="open_snack" translatable="false">1. Open Snack Video</string>
+    <string name="cop_link_from_snack" translatable="false">1. Copy Video Link from SnackVideo</string>
+    <string name="no_media_on_snackvideo" translatable="false">Some error occured</string>
+
+    <string name="josh_app_name" translatable="false">Josh</string>
+    <string name="are_you_sure_you_want_to_exit" translatable="false">Josh</string>
+    <string name="open_josh" translatable="false">1. Open Josh</string>
+    <string name="cop_link_from_josh" translatable="false">1. Copy Video Link from Josh</string>
+
+    <string name="chingari_app_name" translatable="false">Chingari</string>
+    <string name="open_chingari" translatable="false">1. Open Chingari</string>
+    <string name="cop_link_from_chingari" translatable="false">1. Copy Video Link from Chingari</string>
+
+
+    <string name="mitron_app_name" translatable="false">Mitron</string>
+    <string name="open_mitron" translatable="false">1. Open Mitron</string>
+    <string name="cop_link_from_mitron" translatable="false">1. Copy Video Link from Mitron</string>
+
+    <string name="privacypolicy" translatable="false"><![CDATA[<p><strong>Privacy Policy</strong></p>
+<p>This document ("Privacy Policy") explains the privacy rules applicable to all information collected or submitted when you access, install, or use the QuickVPN Services.</p>
+<p>By visiting our privacy, you confirm that you have read this Privacy Policy and agree to be bound by this Privacy Policy. If you disagree with the rules of this Privacy Policy, please do not use our Services.</p>
+<p>Information in this Privacy Policy is provided in layers, meaning that all information related to general personal data processing practices is provided here.</p>
+<p><strong>How we Process your Data</strong></p>
+<p>QuickVPN app processes user data to a limited scope &ndash; for provision of the Services, processing payments for the Services, as well as the functioning of our websites and mobile applications. We process the following basic information:</p>
+<p><strong>Information collected on our app</strong></p>
+<p>As most apps on the internet, VPN app collects access logs (such as IP address, browser type, operating system) to operate our services and ensure their secure, reliable, and robust performance. This in Log</p>
+<p><strong>Data</strong></p>
+<p>We want to inform you that whenever you use our Service, in a case of an error in the app we will collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.</p>
+<p><strong>Cookies</strong></p>
+<p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your devices internal memory.</p>
+<p>This Service does not use these &ldquo;cookies&rdquo; explicitly. However, the app may use third party code and libraries that use &ldquo;cookies&rdquo; to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</p>
+<p><strong>Service Providers</strong></p>
+<p>We may employ third-party companies and individuals due to the following reasons:</p>
+<p>To facilitate our Service;</p>
+<p>To provide the Service on our behalf;</p>
+<p>To perform Service-related services; or</p>
+<p>To assist us in analyzing how our Service is used.</p>
+<p>We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</p>
+<p><strong>Security</strong></p>
+<p>We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and We cannot guarantee its absolute security.</p>
+<p><strong>Links to Other Sites</strong></p>
+<p>This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by [me/us]. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
+<p><strong>Children&rsquo;s Privacy</strong></p>
+<p>These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.</p>
+<p><strong>Sharing your personal data</strong></p>
+<p>We do not share your personal information with third parties except as described in this Privacy Policy.</p>
+<p>Service providers. We use third-party service providers to help us with various operations, such as payment processing, email automation, website and app diagnostics, analytics and other. As a result, some of these providers may process personal information.</p>
+<p>Sometimes our service providers, for example, distributors, resellers, and app store partners, will be independent controllers of your data. Their terms and conditions and privacy policies will apply to such relationships.</p>
+<p>Your personal information may be processed in any country in which we engage service providers. When you use our Services, you acknowledge the transfer of your personal information outside of the country where you reside.</p>
+<p><strong>Choices related to your data</strong></p>
+<p>If you&rsquo;d like to edit your profile information, delete your account or data, please contact our support team. Please note that you may need to pass through a couple of account verification steps so that we can verify you are the owner of the account.</p>
+<p>If you disagree with the processing of your data by QuickVPN, please do not use our Services. You can request us to discontinue processing your personal data, in which case your data will be processed only as much as it is necessary to effect the discontinuation of your use of the Services (e.g., final settlement, or deleting all personal data based on your email address), or finalizing other QuickVPN legal relationship with you (e.g., record keeping, accounting, processing refunds).</p>
+<p>If you wish to use the QuickVPN again, you will have to accept and agree to this Privacy Policy.</p>
+<p>Data security</p>
+<p>We take data security very seriously and take all steps reasonably necessary to secure your data (whether technical, physical, or administrative).</p>]]></string>
+
+</resources>
